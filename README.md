@@ -19,7 +19,7 @@ Hi 👋 My name is Kelvin Christian
 Data Scientist and Software Engineer
 ------------------------------------
 
-* 🌍  I'm based in Seattle, Washington
+* 🌍  I'm based in California
 * ✉️  You can contact me at [kelvinchristian277@gmail.com](mailto:kelvinchristian277@gmail.com)
 
 <br>
