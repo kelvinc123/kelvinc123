@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Kelvin Christian
 =================================
 
-Data Scientist and Software Engineer
+Data Scientist and ML Engineer
 ------------------------------------
 
 * 🌍  I'm based in California
