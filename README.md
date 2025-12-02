@@ -24,6 +24,8 @@ Software Engineer and ML Engineer
 
 <br>
 
+Still a better coder than GPT-5
+
 ### Skills
 ------------------------------------
 
